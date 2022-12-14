@@ -1,4 +1,3 @@
 # signal-data
 E-commerce data
-Data visualisations and relation between various features
-from user activity data from a dummy E-commerce site .
+I did various data visualisations and found relation between various features of user activity data from a dummy E-commerce site .
